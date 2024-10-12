@@ -1,6 +1,8 @@
-# <img src=https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif width=100> My name is Emilio Ivan, I'm from Tucuman
+# My name is Emilio Ivan, I'm from Tucuman
 
 ![Tucuman Sunset baner](img/banner.jpg)
+
+<img src=https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif width=100> 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliomedinamartinez)
 
